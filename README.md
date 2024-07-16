@@ -1,5 +1,5 @@
-# MixConf
-This repository contains the code for *[MixConf is a xxx Model B](https://openreview.net/)*, which is introduced in xxxx.
+# ConforMix
+This repository contains the code for *[ConforMix is a xxx Model B](https://openreview.net/)*, which is introduced in xxxx.
 
 ## Requirements and Installation
 
